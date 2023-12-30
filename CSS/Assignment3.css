@@ -1,0 +1,135 @@
+/* navbar */
+#navbar{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 1%;
+    padding: 15px;
+}
+
+.container-fluid ul{
+    margin-left: 30%;
+}
+
+/* carousel */
+.slide-item{
+    height: 400px;
+}
+
+#slide-img{
+    height: 100%;
+    object-fit: fill;
+}
+
+#carouselExampleCaptions{
+    padding: 15px;
+    width: 92.4%;
+    margin-left: 3.8%;
+    margin-top: 3%;
+}
+
+/* jumbotron */
+.jumbotron{
+    margin-top: 2.7%;
+    padding: 15px;
+    margin-left: 4%;
+}
+
+/* cards */
+.cards{
+    margin-top: 3%;
+    padding: 15px;
+    margin-left: 3%;
+    margin-bottom: 4.5%;
+}
+
+/* progress bar and badges */
+.sec5{
+    display: flex;
+    overflow-x: hidden;
+    margin-top: 10%;
+    gap: 10px;
+}
+
+/* bar */
+.p_bar{
+    padding: 25px;
+    width: 100%;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    /* margin-bottom: -10%; */
+}
+
+.bar1{
+    display: flex;
+    gap: 5%;
+}
+
+.progress{
+    width: 70%;
+}
+
+.bar2{
+    display: flex;
+    gap: 7%;
+}
+
+.bar3{
+    display: flex;
+    gap: 9%;
+}
+
+.txt{
+    margin-top: -0.5%;
+}
+
+/* badges */
+
+.badges{
+    padding: 10px;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 60%;
+}
+
+.btn1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20%;
+}
+
+.btn2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+}
+
+.btn1 #btn1{
+    width: 40px;
+    height: 40px;
+    margin-bottom: 65%;
+}
+
+.btn2 #btn2{
+    width: 40px;
+    height: 40px;
+    margin-bottom: 65%;
+}
+
+/* accordian */
+.accordiv{
+    display: flex;
+}
+
+.accordion{
+    padding: 15px;
+    margin-top: 3%;
+    width: 90%;
+    margin-left: 14%;
+}
+
+/* footer */
+#footer{
+    padding: 15px;
+}
